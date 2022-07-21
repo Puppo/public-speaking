@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      
+
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
         with:
@@ -23,7 +23,7 @@ jobs:
       - name: Install 11ty dependencies
         run: npm i markdown-it markdown-it-anchor
 
-      - name: Create gigs 
+      - name: Create gigs
         run: npx @gigsboat/cli
 
       - name: Copy file to eleventy starter directory
@@ -43,8 +43,8 @@ jobs:
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: 'main'
-          commit-message: 'chore: updating README with new gigs and create HTML'
+          push-branch: "main"
+          commit-message: "chore: updating README with new gigs and create HTML"
           files: README.md docs/
-          name: Liran Tal
-          email: liran.tal@gmail.com
+          name: Luca Del Puppo
+          email: luca@delpuppo.net
