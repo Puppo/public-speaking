@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-11-blue?style=flat-square" alt="Total Events">    <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-13-blue?style=flat-square" alt="Total Events">    <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,19 +6,21 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 4
+ - [Year of 2022](#2022) - total events 6
  - [Year of 2021](#2021) - total events 7
 
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square)    ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-1-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square)    ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-1-green?style=flat-square) ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2022-10-20 | ReactDay | [Integrare Unit e E2E test in applicazioni React 18](pages/2022/2022-10-20.md) | [Slides](https://speakerdeck.com/puppo/reactday-2022-unit-testing) |  | [🇮🇹](## "Italy") | Italian |
+| 2022-10-7 | AngularDay | [How to scale up your angular projects like a pro](pages/2022/2022-10-07.md) | [Slides](https://speakerdeck.com/puppo/how-to-scale-up-your-angular-projects-like-a-pro) |  | [🇮🇹](## "Italy") | English |
 | 2022-4-29 | XeDotNet | [Prisma is in the Air](pages/2022/2022-04-29.md) | [Slides](https://speakerdeck.com/puppo/prisma-in-the-air) |  | [🇮🇹](## "Italy") | Italian |
 | 2022-4-29 | Codemotion | [Prisma, l’ORM del futuro](pages/2022/2022-06-27.md) |  |  |  | Italian |
 | 2022-3-10 | MUG | [Can typescript definitions survive even at runtime?](pages/2022/2022-03-10.md) | [Slides](https://speakerdeck.com/puppo/can-typescript-definitions-survive-even-at-runtime) | [Recording](https://www.youtube.com/watch?v=6Aajmo9E-SM) | [🇮🇹](## "Italy") | Italian |
@@ -47,4 +49,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-<i>Updated on 2022-07-21T16:11:14.363Z</i>
+*page updated on 2022-10-23T13:14:07.866Z*
+
+powered by [gigsboat/cli](https://github.com/gigsboat/cli)
