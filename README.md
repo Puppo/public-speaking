@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-64-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-55-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-66-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-57-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,14 +6,14 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 17
+ - [Year of 2022](#2022) - total events 19
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
 
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-17-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-11-green?style=flat-square) ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-19-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-13-green?style=flat-square) ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
 
 
 
@@ -24,9 +24,11 @@
 | 2022-10-7 | AngularDay | [How to scale up your angular projects like a pro](pages/2022/2022-10-07.md) | [Slides](https://speakerdeck.com/puppo/how-to-scale-up-your-angular-projects-like-a-pro) |  | [🇮🇹](## "Italy") | English |
 | 2022-4-29 | XeDotNet | [Prisma is in the Air](pages/2022/2022-04-29.md) | [Slides](https://speakerdeck.com/puppo/prisma-in-the-air) |  | [🇮🇹](## "Italy") | Italian |
 | 2022-4-29 | Codemotion | [Prisma, l’ORM del futuro](pages/2022/2022-06-27.md) |  |  |  | Italian |
+| 2022-3-21 | delpuppo.net | [Visual Studio Code - Tips & Tricks - Snippets](pages/2022/VsCode%20-%20Tips%20&%20Tricks/2022-03-21.md) |  |  |  | English |
 | 2022-3-10 | MUG | [Can typescript definitions survive even at runtime?](pages/2022/2022-03-10.md) | [Slides](https://speakerdeck.com/puppo/can-typescript-definitions-survive-even-at-runtime) | [Recording](https://www.youtube.com/watch?v=6Aajmo9E-SM) | [🇮🇹](## "Italy") | Italian |
-| 2022-2-21 | dev.to | [VsCode - Tips & Tricks](pages/2022/2022-02-21.md) |  |  |  | English |
+| 2022-2-21 | delpuppo.net | [Visual Studio Code - Tips & Tricks - Command Palette and its friends](pages/2022/VsCode%20-%20Tips%20&%20Tricks/2022-02-21.md) |  |  |  | English |
 | 2022-2-16 | Devmy | [Prisma: un po' di colore nel nero mondo degli ORM](pages/2022/2022-02-16.md) |  | [Recording](https://www.youtube.com/watch?v=MTMcWrDbPA8) |  | Italian |
+| 2022-2-14 | dev.to | [Typescript - (ReadOnly)NotEmptyArray](pages/2022/2022-02-14.md) |  |  |  | English |
 | 2022-2-4 | dev.to | [It's Prisma Time - Seeding](pages/2022/It's%20Prisma%20Time/2022-02-04.md) |  |  |  | English |
 | 2022-2-2 | dev.to | [It's Prisma Time - Migrations](pages/2022/It's%20Prisma%20Time/2022-02-02.md) |  |  |  | English |
 | 2022-1-28 | dev.to | [It's Prisma Time - Execute your own queries](pages/2022/It's%20Prisma%20Time/2022-01-28.md) |  |  |  | English |
@@ -113,6 +115,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2022-10-29T17:42:42.476Z*
+*page updated on 2022-10-29T17:48:17.882Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
