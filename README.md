@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-35-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-25-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-49-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-39-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -7,7 +7,7 @@
 
 
  - [Year of 2022](#2022) - total events 6
- - [Year of 2021](#2021) - total events 28
+ - [Year of 2021](#2021) - total events 42
  - [Year of 2020](#2020) - total events 1
 
 # 2022
@@ -31,7 +31,7 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-28-blue?style=flat-square)    ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-23-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-42-blue?style=flat-square)    ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-37-green?style=flat-square) 
 
 
 
@@ -40,8 +40,22 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2021-12-14 | dev.to | [It's Prisma Time](pages/2021/2021-12-14.md) |  |  |  | English |
 | 2021-10-19 | FEVR | [Is it possible to build your UI components using only web components?](pages/2021/2021-10-19.md) | [Slides](https://speakerdeck.com/puppo/is-it-possible-to-build-your-ui-components-using-only-web-components) | [Recording](https://www.youtube.com/watch?v=RBWJZWC86Bg) | [🇮🇹](## "Italy") | Italian |
+| 2021-10-8 | dev.to | [RxJS - Marble Testing](pages/2021/RxJS%20-%20Getting%20Started/2021-10-08.md) |  |  |  | English |
 | 2021-10-7 | MUG | [Stay Reactive Stay Quiet with RxJS](pages/2021/2021-10-07.md) | [Slides](https://speakerdeck.com/puppo/stay-reactive-stay-quiet-with-rxjs) | [Recording](https://m-u-g.github.io/eventi/2021/10/07/stay-reactive-stay-quiet-with-rxjs.html) | [🇮🇹](## "Italy") | Italian |
-| 2021-9-21 | dev.to | [RxJS - Getting Started](pages/2021/2021-09-21.md) |  |  |  | English |
+| 2021-10-6 | dev.to | [RxJS - Subjects](pages/2021/RxJS%20-%20Getting%20Started/2021-10-06.md) |  |  |  | English |
+| 2021-10-4 | dev.to | [RxJS - Custom Operators](pages/2021/RxJS%20-%20Getting%20Started/2021-10-04.md) |  |  |  | English |
+| 2021-10-1 | dev.to | [RxJS - Multicast Operator](pages/2021/RxJS%20-%20Getting%20Started/2021-10-01.md) |  |  |  | English |
+| 2021-9-27 | dev.to | [RxJS - Conditional & Mathematical Operators](pages/2021/RxJS%20-%20Getting%20Started/2021-09-27.md) |  |  |  | English |
+| 2021-9-24 | dev.to | [RxJS - Utility Operators](pages/2021/RxJS%20-%20Getting%20Started/2021-09-24.md) |  |  |  | English |
+| 2021-9-24 | dev.to | [RxJS - Error Handling Operators](pages/2021/RxJS%20-%20Getting%20Started/2021-09-29.md) |  |  |  | English |
+| 2021-9-22 | dev.to | [RxJS - Join Operators](pages/2021/RxJS%20-%20Getting%20Started/2021-09-22.md) |  |  |  | English |
+| 2021-9-20 | dev.to | [RxJS - Transformation Operators](pages/2021/RxJS%20-%20Getting%20Started/2021-09-20.md) |  |  |  | English |
+| 2021-9-17 | dev.to | [RxJS - Filtering Operators](pages/2021/RxJS%20-%20Getting%20Started/2021-09-17.md) |  |  |  | English |
+| 2021-9-15 | dev.to | [RxJS - Creation Operators](pages/2021/RxJS%20-%20Getting%20Started/2021-09-15.md) |  |  |  | English |
+| 2021-9-13 | dev.to | [RxJS - Marble Diagrams](pages/2021/RxJS%20-%20Getting%20Started/2021-09-13.md) |  |  |  | English |
+| 2021-9-10 | dev.to | [RxJS - Operators](pages/2021/RxJS%20-%20Getting%20Started/2021-09-10.md) |  |  |  | English |
+| 2021-9-8 | dev.to | [RxJS - Observer and Subscription](pages/2021/RxJS%20-%20Getting%20Started/2021-09-08.md) |  |  |  | English |
+| 2021-9-6 | dev.to | [RxJS - Observable](pages/2021/RxJS%20-%20Getting%20Started/2021-09-06.md) |  |  |  | English |
 | 2021-4-21 | Devmy | [NX: il ritorno!](pages/2021/2021-04-21.md) |  | [Recording](https://www.youtube.com/watch?v=hS_2Okd-CkM) |  | Italian |
 | 2021-4-2 | dev.to | [Typescript - Tips & Tricks - Rest Parameters & Rest Arguments](pages/2021/Typescript%20-%20Tips%20&%20Tricks/2021-04-02.md) |  |  |  | English |
 | 2021-3-31 | dev.to | [Typescript - Tips & Tricks - Advanced Types](pages/2021/Typescript%20-%20Tips%20&%20Tricks/2021-03-31.md) |  |  |  | English |
@@ -84,6 +98,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2022-10-29T17:00:27.767Z*
+*page updated on 2022-10-29T17:16:53.779Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
