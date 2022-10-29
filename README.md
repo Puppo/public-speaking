@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-13-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-14-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-4-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -7,7 +7,7 @@
 
 
  - [Year of 2022](#2022) - total events 6
- - [Year of 2021](#2021) - total events 7
+ - [Year of 2021](#2021) - total events 8
 
 # 2022
 
@@ -30,7 +30,7 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square)    ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-2-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square)    ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-3-green?style=flat-square) 
 
 
 
@@ -44,11 +44,12 @@
 | 2021-4-21 | Devmy | [NX: il ritorno!](pages/2021/2021-04-21.md) |  | [Recording](https://www.youtube.com/watch?v=hS_2Okd-CkM) |  | Italian |
 | 2021-2-16 | Devmy | [Prisma: un po' di colore nel nero mondo degli ORM](pages/2022/2021-02-16.md) |  | [Recording](https://www.youtube.com/watch?v=MTMcWrDbPA8) |  | Italian |
 | 2021-2-15 | dev.to | [Typescript - Tips & Tricks](pages/2021/2021-02-15.md) |  |  |  | English |
+| 2021-2-15 | dev.to | [Typescript - Tips & Tricks](pages/2021/Typescript%20-%20Tips%20&%20Tricks/2021-02-15.md) |  |  |  | English |
 
 
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2022-10-23T13:18:52.080Z*
+*page updated on 2022-10-29T16:41:29.385Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
