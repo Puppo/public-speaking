@@ -21,7 +21,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-11-3 | delpuppo.net | [Working with Github from your best editor](pages/2022/VsCode%20-%20Tips%20&%20Tricks/2022-11-03.md) |  |  |  | English |
-| 2022-10-31 | dev.to | [Validate your data with Zod](pages/2022/2022-10-31.md) |  |  |  | English |
+| 2022-10-31 | delpuppo.net | [Validate your data with Zod](pages/2022/2022-10-31.md) |  |  |  | English |
 | 2022-10-25 | Milano Frontend | [Alive, tipi sopravvissuti](pages/2022/2022-10-25.md) | [Slides](https://speakerdeck.com/puppo/alive-types) | [Recording](https://www.twitch.tv/videos/1634157989) | [🇮🇹](## "Italy") | Italian |
 | 2022-10-20 | ReactDay | [Integrare Unit e E2E test in applicazioni React 18](pages/2022/2022-10-20.md) | [Slides](https://speakerdeck.com/puppo/reactday-2022-unit-testing) |  | [🇮🇹](## "Italy") | Italian |
 | 2022-10-7 | AngularDay | [How to scale up your angular projects like a pro](pages/2022/2022-10-07.md) | [Slides](https://speakerdeck.com/puppo/how-to-scale-up-your-angular-projects-like-a-pro) |  | [🇮🇹](## "Italy") | English |
@@ -118,6 +118,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2022-11-04T17:38:17.088Z*
+*page updated on 2022-11-04T17:42:11.781Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
