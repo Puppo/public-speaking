@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-67-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-5-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-57-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-69-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-5-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-1-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-59-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,20 +6,22 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 20
+ - [Year of 2022](#2022) - total events 22
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
 
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-20-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-13-green?style=flat-square) ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-22-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-15-green?style=flat-square) ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2022-11-3 | delpuppo.net | [Working with Github from your best editor](pages/2022/VsCode%20-%20Tips%20&%20Tricks/2022-11-03.md) |  |  |  | English |
+| 2022-10-31 | dev.to | [Validate your data with Zod](pages/2022/2022-10-31.md) |  |  |  | English |
 | 2022-10-25 | Milano Frontend | [Alive, tipi sopravvissuti](pages/2022/2022-10-25.md) | [Slides](https://speakerdeck.com/puppo/alive-types) | [Recording](https://www.twitch.tv/videos/1634157989) | [🇮🇹](## "Italy") | Italian |
 | 2022-10-20 | ReactDay | [Integrare Unit e E2E test in applicazioni React 18](pages/2022/2022-10-20.md) | [Slides](https://speakerdeck.com/puppo/reactday-2022-unit-testing) |  | [🇮🇹](## "Italy") | Italian |
 | 2022-10-7 | AngularDay | [How to scale up your angular projects like a pro](pages/2022/2022-10-07.md) | [Slides](https://speakerdeck.com/puppo/how-to-scale-up-your-angular-projects-like-a-pro) |  | [🇮🇹](## "Italy") | English |
@@ -116,6 +118,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2022-10-29T17:58:19.987Z*
+*page updated on 2022-11-04T17:38:17.088Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
