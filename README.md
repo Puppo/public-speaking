@@ -30,8 +30,8 @@
 | 2022-10-25 | Milano Frontend | [Alive, tipi sopravvissuti](pages/2022/2022-10-25.md) | [Slides](https://speakerdeck.com/puppo/alive-types) | [Recording](https://www.twitch.tv/videos/1634157989) | [🇮🇹](## "Italy") | Italian |
 | 2022-10-20 | ReactDay | [Integrare Unit e E2E test in applicazioni React 18](pages/2022/2022-10-20.md) | [Slides](https://speakerdeck.com/puppo/reactday-2022-unit-testing) |  | [🇮🇹](## "Italy") | Italian |
 | 2022-10-7 | AngularDay | [How to scale up your angular projects like a pro](pages/2022/2022-10-07.md) | [Slides](https://speakerdeck.com/puppo/how-to-scale-up-your-angular-projects-like-a-pro) |  | [🇮🇹](## "Italy") | English |
+| 2022-6-27 | Codemotion | [Prisma, l’ORM del futuro](pages/2022/2022-06-27.md) |  |  |  | Italian |
 | 2022-4-29 | XeDotNet | [Prisma is in the Air](pages/2022/2022-04-29.md) | [Slides](https://speakerdeck.com/puppo/prisma-in-the-air) |  | [🇮🇹](## "Italy") | Italian |
-| 2022-4-29 | Codemotion | [Prisma, l’ORM del futuro](pages/2022/2022-06-27.md) |  |  |  | Italian |
 | 2022-3-21 | delpuppo.net | [Visual Studio Code - Tips & Tricks - Snippets](pages/2022/VsCode%20-%20Tips%20&%20Tricks/2022-03-21.md) |  |  |  | English |
 | 2022-3-10 | MUG | [Can typescript definitions survive even at runtime?](pages/2022/2022-03-10.md) | [Slides](https://speakerdeck.com/puppo/can-typescript-definitions-survive-even-at-runtime) | [Recording](https://www.youtube.com/watch?v=6Aajmo9E-SM) | [🇮🇹](## "Italy") | Italian |
 | 2022-2-21 | delpuppo.net | [Visual Studio Code - Tips & Tricks - Command Palette and its friends](pages/2022/VsCode%20-%20Tips%20&%20Tricks/2022-02-21.md) |  |  |  | English |
@@ -123,6 +123,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2022-12-05T18:32:50.786Z*
+*page updated on 2022-12-05T18:38:29.774Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
