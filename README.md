@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-77-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-6-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-3-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-64-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-78-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-6-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-3-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-65-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,20 +6,21 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 30
+ - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
 
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-30-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-20-green?style=flat-square) ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-31-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-21-green?style=flat-square) ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2022-12-29 | delpuppo.net | [Playwright - Generate tests' code](pages/2022/Playwright/2022-12-29.md) |  |  |  | English |
 | 2022-12-21 | delpuppo.net | [Playwright - debug your tests](pages/2022/Playwright/2022-12-21.md) |  |  |  | English |
 | 2022-12-14 | delpuppo.net | [Playwright - How to write tests](pages/2022/Playwright/2022-12-14.md) |  |  |  | English |
 | 2022-12-7 | delpuppo.net | [Playwright - Let's start](pages/2022/Playwright/2022-12-07.md) |  |  |  | English |
@@ -126,6 +127,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2022-12-21T11:00:41.657Z*
+*page updated on 2023-01-03T13:22:06.560Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
