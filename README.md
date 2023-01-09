@@ -21,7 +21,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2023-1-9 | Youtube | [Validate HTTP response with Zod in Angular](pages/2023/2023-01-09.md) |  |  |  | English |
+| 2023-1-9 | Youtube | [Validate HTTP response with Zod in Angular](pages/2023/2023-01-09.md) |  | [Recording](https://www.youtube.com/watch?v=wfweGm5RTZw) |  | English |
 | 2023-1-5 | delpuppo.net | [Playwright - Fixtures](pages/2023/Playwright/2023-01-05.md) |  |  |  | English |
 
 
@@ -142,6 +142,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-01-09T13:26:09.631Z*
+*page updated on 2023-01-09T15:29:09.526Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
