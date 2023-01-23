@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-84-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-6-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-3-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-69-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-85-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-6-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-3-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-69-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 6
+ - [Year of 2023](#2023) - total events 7
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
@@ -14,13 +14,14 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square)     ![Total Podcasts](https://img.shields.io/badge/articles-4-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square)     ![Total Podcasts](https://img.shields.io/badge/articles-4-green?style=flat-square) 
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2023-1-23 | Youtube | [Validate environment variables with Zod](pages/2023/2023-01-23.md) |  | [Recording](https://www.youtube.com/watch?v=DSSlRGWO7Ss) |  | English |
 | 2023-1-19 | delpuppo.net | [Playwright - CI](pages/2023/Playwright/2023-01-19.md) |  |  |  | English |
 | 2023-1-16 | Youtube | [Improve performance removing spread operator](pages/2023/2023-01-16.md) |  | [Recording](https://www.youtube.com/watch?v=zqUEIQUlDnA) |  | English |
 | 2023-1-12 | delpuppo.net | [Playwright - Components testing](pages/2023/Playwright/2023-01-12.md) |  |  |  | English |
@@ -146,6 +147,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-01-19T11:28:17.127Z*
+*page updated on 2023-01-23T09:20:07.581Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
