@@ -21,7 +21,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2023-2-2 | delpuppo.net | [Playwright - Visual Comparisons](pages/2023/Playwright/2023-01-26%20copy.md) |  |  |  | English |
+| 2023-2-2 | delpuppo.net | [Playwright - Visual Comparisons](pages/2023/Playwright/2023-02-02.md) |  |  |  | English |
 | 2023-1-30 | Youtube | [Validate environment variables with Zod - React App](pages/2023/2023-01-30.md) |  | [Recording](https://www.youtube.com/watch?v=v5gfOVZnoV4) |  | English |
 | 2023-1-26 | delpuppo.net | [Playwright - Mock API](pages/2023/Playwright/2023-01-26.md) |  |  |  | English |
 | 2023-1-23 | Youtube | [Validate environment variables with Zod](pages/2023/2023-01-23.md) |  | [Recording](https://www.youtube.com/watch?v=DSSlRGWO7Ss) |  | English |
@@ -150,6 +150,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-02-02T08:18:45.851Z*
+*page updated on 2023-02-02T09:30:06.780Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
