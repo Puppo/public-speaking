@@ -21,14 +21,14 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2023-2-28 | delpuppo.net | [Why I love GitLens in my VsCode - Part 3](pages/2023/Why%20I%20love%20GitLens%20in%20my%20VsCode/2023-02-28.md) |  |  |  | English |
+| 2023-2-28 | delpuppo.net | [Why I love GitLens in my VsCode - Interactive Rebase](pages/2023/Why%20I%20love%20GitLens%20in%20my%20VsCode/2023-02-28.md) |  |  |  | English |
 | 2023-2-27 | Youtube | [ReactQuery - useIsFetching & useIsMutating](pages/2023/2023-02-27.md) |  | [Recording](https://www.youtube.com/watch?v=dWuUjDNB6Yc) |  | English |
 | 2023-2-23 | Marca User Group | [Write one time, test everywhere with Playwright](pages/2023/2023-02-23.md) | [Slides](https://slides.com/puppo92/write-one-time-test-everywhere-with-playwright/fullscreen) |  | [🇮🇹](## "Italy") | Italian |
 | 2023-2-23 | delpuppo.net | [Playwright - Parametrize tests](pages/2023/Playwright/2023-02-23.md) |  |  |  | English |
-| 2023-2-21 | delpuppo.net | [Why I love GitLens in my VsCode - Part 2](pages/2023/Why%20I%20love%20GitLens%20in%20my%20VsCode/2023-02-21.md) |  |  |  | English |
+| 2023-2-21 | delpuppo.net | [Why I love GitLens in my VsCode - Blame & Compare](pages/2023/Why%20I%20love%20GitLens%20in%20my%20VsCode/2023-02-21.md) |  |  |  | English |
 | 2023-2-20 | Youtube | [React Query - useMutation](pages/2023/2023-02-20.md) |  | [Recording](https://www.youtube.com/watch?v=Cpxoxj9sTXA) |  | English |
 | 2023-2-16 | delpuppo.net | [Playwright - Not just for Frontend](pages/2023/Playwright/2023-02-16.md) |  |  |  | English |
-| 2023-2-14 | delpuppo.net | [Why I love GitLens in my VsCode - Part 1](pages/2023/Why%20I%20love%20GitLens%20in%20my%20VsCode/2023-02-14.md) |  |  |  | English |
+| 2023-2-14 | delpuppo.net | [Why I love GitLens in my VsCode - First Steps](pages/2023/Why%20I%20love%20GitLens%20in%20my%20VsCode/2023-02-14.md) |  |  |  | English |
 | 2023-2-13 | Youtube | [React Query - useQuery introduction](pages/2023/2023-02-13.md) |  | [Recording](https://www.youtube.com/watch?v=q2r2yoq5zaQ) |  | English |
 | 2023-2-9 | delpuppo.net | [Playwright - Parallelism and sharding](pages/2023/Playwright/2023-02-09.md) |  |  |  | English |
 | 2023-2-7 | JSWorld Conference 2023 | [Keep alive your typescript definitions using Zod](pages/2023/2023-02-07.md) | [Slides](https://speakerdeck.com/puppo/keep-alive-your-typescript-definitions-using-zod) |  |  | English |
@@ -162,6 +162,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-02-28T13:05:52.725Z*
+*page updated on 2023-02-28T18:24:34.719Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
