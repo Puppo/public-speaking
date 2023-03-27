@@ -38,7 +38,7 @@
 | 2023-2-14 | delpuppo.net | [Why I love GitLens in my VsCode - First Steps](pages/2023/Why%20I%20love%20GitLens%20in%20my%20VsCode/2023-02-14.md) |  |  |  | English |
 | 2023-2-13 | Youtube | [React Query - useQuery introduction](pages/2023/ReactQuery/2023-02-13.md) |  | [Recording](https://www.youtube.com/watch?v=q2r2yoq5zaQ) |  | English |
 | 2023-2-9 | delpuppo.net | [Playwright - Parallelism and sharding](pages/2023/Playwright/2023-02-09.md) |  |  |  | English |
-| 2023-2-7 | JSWorld Conference 2023 | [Keep alive your typescript definitions using Zod](pages/2023/2023-02-07.md) | [Slides](https://speakerdeck.com/puppo/keep-alive-your-typescript-definitions-using-zod) | [Recording](https://www.youtube.com/watch?v=19I1VEOor2A) |  | English |
+| 2023-2-7 | JSWorld Conference 2023 | [Keep alive your typescript definitions using Zod](pages/2023/2023-02-07.md) | [Slides](https://speakerdeck.com/puppo/keep-alive-your-typescript-definitions-using-zod) | [Recording](https://www.youtube.com/watch?v=19I1VEOor2A) | [🇳🇱](## "Netherlands") | English |
 | 2023-2-6 | Youtube | [Validate environment variables with Zod - Angular App](pages/2023/2023-02-06.md) |  | [Recording](https://www.youtube.com/watch?v=SntelaTq5mE) |  | English |
 | 2023-2-2 | delpuppo.net | [Playwright - Visual Comparisons](pages/2023/Playwright/2023-02-02.md) |  |  |  | English |
 | 2023-1-30 | Youtube | [Validate environment variables with Zod - React App](pages/2023/2023-01-30.md) |  | [Recording](https://www.youtube.com/watch?v=v5gfOVZnoV4) |  | English |
@@ -169,6 +169,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-03-27T16:38:06.634Z*
+*page updated on 2023-03-27T16:41:39.090Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
