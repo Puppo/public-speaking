@@ -23,9 +23,9 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2023-3-27 | Youtube | [React Query - Enable Query](pages/2023/ReactQuery/2023-03-27.md) |  | [Recording](https://www.youtube.com/watch?v=5JSD_b2slJs) |  | English |
 | 2023-3-24 | Ng-Be 2023 | [Validate HTTP request with HttpClient & Zod](pages/2023/2023-03-24.md) | [Slides](https://slides.com/puppo92/validate-http-request-with-httpclient-zod/fullscreen) | [Recording](https://www.youtube.com/watch?v=B2Hdehjq4vU) | [🇧🇪](## "Belgium") | English |
-| 2023-3-22 | delpuppo.net | [React Query - useMutation](pages/2023/ReactQuery%20-%20Articles/2023-03-22.md) |  | [Recording](https://blog.delpuppo.net/react-query-usemutation) |  | English |
+| 2023-3-22 | delpuppo.net | [React Query - useMutation](pages/2023/ReactQuery%20-%20Articles/2023-03-22.md) |  |  |  | English |
 | 2023-3-20 | Youtube | [React Query - Filter your data](pages/2023/ReactQuery/2023-03-20.md) |  | [Recording](https://www.youtube.com/watch?v=H4l1QAA4Dxw) |  | English |
-| 2023-3-15 | delpuppo.net | [React Query - useQuery](pages/2023/ReactQuery%20-%20Articles/2023-03-15.md) |  | [Recording](https://blog.delpuppo.net/react-query-usequery) |  | English |
+| 2023-3-15 | delpuppo.net | [React Query - useQuery](pages/2023/ReactQuery%20-%20Articles/2023-03-15.md) |  |  |  | English |
 | 2023-3-13 | Youtube | [ReactQuery - Authentication Flow](pages/2023/ReactQuery/2023-03-13.md) |  | [Recording](https://www.youtube.com/watch?v=JNoiAumC94g) |  | English |
 | 2023-3-6 | Youtube | [ReactQuery - Devtool](pages/2023/ReactQuery/2023-03-06.md) |  | [Recording](https://www.youtube.com/watch?v=qXycRUetOX4) |  | English |
 | 2023-2-28 | delpuppo.net | [Why I love GitLens in my VsCode - Interactive Rebase](pages/2023/Why%20I%20love%20GitLens%20in%20my%20VsCode/2023-02-28.md) |  |  |  | English |
@@ -169,6 +169,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-03-27T16:41:39.090Z*
+*page updated on 2023-03-27T16:44:31.741Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
