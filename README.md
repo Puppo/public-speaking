@@ -22,6 +22,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2023-4-11 | Youtube | [React Query - Optimistic Update](pages/2023/ReactQuery/2023-04-11.md) |  | [Recording](https://www.youtube.com/watch?v=IwkhNxIyyzA) |  | English |
+| 2023-4-6 | delpuppo.net | [Playwright - UI Mode](pages/2023/Playwright/2023-04-06.md) |  |  |  | English |
 | 2023-4-5 | Youtube | [Playwright with UI Mode is awesome](pages/2023/Playwright/2023-04-05.md) |  | [Recording](https://www.youtube.com/watch?v=IwkhNxIyyzA) |  | English |
 | 2023-4-5 | delpuppo.net | [React Query - DevTools](pages/2023/ReactQuery%20-%20Articles/2023-04-05.md) |  |  |  | English |
 | 2023-4-3 | Youtube | [React Query - Keys & Prefetching](pages/2023/ReactQuery/2023-04-03.md) |  | [Recording](https://www.youtube.com/watch?v=svvx-pl_hTE) |  | English |
@@ -40,7 +41,6 @@
 | 2023-2-27 | Youtube | [ReactQuery - useIsFetching & useIsMutating](pages/2023/ReactQuery/2023-02-27.md) |  | [Recording](https://www.youtube.com/watch?v=dWuUjDNB6Yc) |  | English |
 | 2023-2-23 | Marca User Group | [Write one time, test everywhere with Playwright](pages/2023/2023-02-23.md) | [Slides](https://slides.com/puppo92/write-one-time-test-everywhere-with-playwright/fullscreen) |  | [🇮🇹](## "Italy") | Italian |
 | 2023-2-23 | delpuppo.net | [Playwright - Parametrize tests](pages/2023/Playwright/2023-02-23.md) |  |  |  | English |
-| 2023-2-23 | delpuppo.net | [Playwright - UI Mode](pages/2023/Playwright/2023-04-06.md) |  |  |  | English |
 | 2023-2-21 | delpuppo.net | [Why I love GitLens in my VsCode - Blame & Compare](pages/2023/Why%20I%20love%20GitLens%20in%20my%20VsCode/2023-02-21.md) |  |  |  | English |
 | 2023-2-20 | Youtube | [React Query - useMutation](pages/2023/ReactQuery/2023-02-20.md) |  | [Recording](https://www.youtube.com/watch?v=Cpxoxj9sTXA) |  | English |
 | 2023-2-16 | delpuppo.net | [Playwright - Not just for Frontend](pages/2023/Playwright/2023-02-16.md) |  |  |  | English |
@@ -178,6 +178,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-04-11T16:55:58.319Z*
+*page updated on 2023-04-11T16:58:57.126Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
