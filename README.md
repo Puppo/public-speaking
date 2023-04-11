@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-112-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-7-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-6-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-82-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-116-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-7-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-6-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-84-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 34
+ - [Year of 2023](#2023) - total events 38
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
@@ -14,13 +14,16 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-34-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-17-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-38-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-19-green?style=flat-square) 
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2023-4-11 | Youtube | [React Query - Optimistic Update](pages/2023/ReactQuery/2023-04-11.md) |  | [Recording](https://www.youtube.com/watch?v=IwkhNxIyyzA) |  | English |
+| 2023-4-5 | Youtube | [Playwright with UI Mode is awesome](pages/2023/Playwright/2023-04-05.md) |  | [Recording](https://www.youtube.com/watch?v=IwkhNxIyyzA) |  | English |
+| 2023-4-5 | delpuppo.net | [React Query - DevTools](pages/2023/ReactQuery%20-%20Articles/2023-04-05.md) |  |  |  | English |
 | 2023-4-3 | Youtube | [React Query - Keys & Prefetching](pages/2023/ReactQuery/2023-04-03.md) |  | [Recording](https://www.youtube.com/watch?v=svvx-pl_hTE) |  | English |
 | 2023-3-31 | delpuppo.net | [Creating & Merging Pull Requests in VS Code](pages/2023/2023-03-31.01.md) |  |  |  | English |
 | 2023-3-31 | CssDay 2023 | [Design System for Software Development Team](pages/2023/2023-03-31.md) | [Slides](https://slides.com/puppo92/design-system-for-software-development-team/fullscreen) |  | [🇮🇹](## "Italy") | Italian |
@@ -37,6 +40,7 @@
 | 2023-2-27 | Youtube | [ReactQuery - useIsFetching & useIsMutating](pages/2023/ReactQuery/2023-02-27.md) |  | [Recording](https://www.youtube.com/watch?v=dWuUjDNB6Yc) |  | English |
 | 2023-2-23 | Marca User Group | [Write one time, test everywhere with Playwright](pages/2023/2023-02-23.md) | [Slides](https://slides.com/puppo92/write-one-time-test-everywhere-with-playwright/fullscreen) |  | [🇮🇹](## "Italy") | Italian |
 | 2023-2-23 | delpuppo.net | [Playwright - Parametrize tests](pages/2023/Playwright/2023-02-23.md) |  |  |  | English |
+| 2023-2-23 | delpuppo.net | [Playwright - UI Mode](pages/2023/Playwright/2023-04-06.md) |  |  |  | English |
 | 2023-2-21 | delpuppo.net | [Why I love GitLens in my VsCode - Blame & Compare](pages/2023/Why%20I%20love%20GitLens%20in%20my%20VsCode/2023-02-21.md) |  |  |  | English |
 | 2023-2-20 | Youtube | [React Query - useMutation](pages/2023/ReactQuery/2023-02-20.md) |  | [Recording](https://www.youtube.com/watch?v=Cpxoxj9sTXA) |  | English |
 | 2023-2-16 | delpuppo.net | [Playwright - Not just for Frontend](pages/2023/Playwright/2023-02-16.md) |  |  |  | English |
@@ -174,6 +178,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-04-04T13:09:16.010Z*
+*page updated on 2023-04-11T16:55:58.319Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
