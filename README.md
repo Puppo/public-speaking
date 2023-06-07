@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-133-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-7-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-8-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-91-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-136-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-7-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-9-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-92-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 55
+ - [Year of 2023](#2023) - total events 58
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
@@ -14,13 +14,16 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-55-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-26-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-58-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-27-green?style=flat-square) 
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2023-6-7 | delpuppo.net | [React Query - Infinite Queries](pages/2023/ReactQuery%20-%20Articles/2023-06-07.md) |  |  |  | English |
+| 2023-6-6 | React Summit 2023 | [Zod === Typescript, but at Runtime in Your React Applications](pages/2023/2023-06-06.md) | [Slides](https://slides.com/puppo92/zod-typescript-but-at-runtime-in-your-react-applications/fullscreen) | [Recording](https://portal.gitnation.org/contents/zod-typescript-but-at-runtime-in-your-react-applications) | [🇳🇱](## "Netherlands") | English |
+| 2023-6-6 | Youtube | [Clone, How many are in JS?](pages/2023/Js%20Performance/2023-06-06.md) |  | [Recording](https://www.youtube.com/watch?v=ygsm_BlfTOg) |  | English |
 | 2023-6-1 | delpuppo.net | [React Query - Paginated List](pages/2023/ReactQuery%20-%20Articles/2023-06-01.md) |  |  |  | English |
 | 2023-5-30 | Youtube | [Delete, Why are you so slow?](pages/2023/Js%20Performance/2023-05-30.md) |  | [Recording](https://www.youtube.com/watch?v=3M4s6Wz2HSw) |  | English |
 | 2023-5-23 | Youtube | [Javascript iterations like a pro](pages/2023/Js%20Performance/2023-05-23.md) |  | [Recording](https://www.youtube.com/watch?v=N2D1JLI_nps) |  | English |
@@ -195,6 +198,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-06-01T07:38:28.608Z*
+*page updated on 2023-06-07T19:36:13.007Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
