@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-140-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-9-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-9-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-92-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-141-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-9-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-9-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-92-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 62
+ - [Year of 2023](#2023) - total events 63
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
@@ -14,13 +14,14 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-62-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-27-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-63-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-27-green?style=flat-square) 
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2023-7-26 | Youtube | [Old style Vs New style, which is the best performer?](pages/2023/Js%20Performance/2023-07-26.md) |  | [Recording](https://www.youtube.com/watch?v=TBH2vdx4Dd8) |  | English |
 | 2023-7-19 | Youtube | [Objects vs Maps when you should use one or the other](pages/2023/Js%20Performance/2023-07-19.md) |  | [Recording](https://www.youtube.com/watch?v=8WiUEnSvoao) |  | English |
 | 2023-7-12 | Youtube | [Avoid arrays. Sometimes, sets could be better](pages/2023/Js%20Performance/2023-07-12.md) |  | [Recording](https://www.youtube.com/watch?v=ak0fhG3zIyA) |  | English |
 | 2023-6-17 | We Make Future | [Dive into Typescript](pages/2023/2023-06-17.md) | [Slides](https://docs.google.com/presentation/d/1YNnBN3pYEoJ8HLr5itDMG7e13t-F368h/edit?usp=sharing&ouid=107460965147414222407&rtpof=true&sd=true) |  | [🇮🇹](## "Italy") | Italian |
@@ -202,6 +203,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-07-22T20:37:27.799Z*
+*page updated on 2023-07-26T19:26:42.943Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
