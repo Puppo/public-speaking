@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-141-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-9-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-9-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-92-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-147-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-9-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-10-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-92-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 63
+ - [Year of 2023](#2023) - total events 69
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
@@ -14,13 +14,19 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-63-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-27-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-69-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-27-green?style=flat-square) 
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2023-8-17 | Youtube | [TypeScript Partial Utility, how does it work?](pages/2023/Typescript%20Tips/2023-08-17.md) |  | [Recording](https://youtube.com/shorts/hiQ2Auleskc) |  | English |
+| 2023-8-11 | Youtube | [Wait for every promise or wait for everything? How to improve performance by knowing the promises](pages/2023/Js%20Performance/2023-08-11.md) |  | [Recording](https://www.youtube.com/watch?v=2ZQ5EKVjW30) |  | English |
+| 2023-8-10 | Youtube | [Remember to set the returntype in your typescript functions](pages/2023/Typescript%20Tips/2023-08-10.md) |  | [Recording](https://youtube.com/shorts/qFmAZQQSIQw) |  | English |
+| 2023-8-4 | Youtube | [Being stricter with literaltypes in typescript](pages/2023/Typescript%20Tips/2023-08-04.md) |  | [Recording](https://youtube.com/shorts/CLSdQ7IBFOY) |  | English |
+| 2023-8-2 | Youtube | [Junior vs Middle vs Senior, which one performs best in building a range in JavaScript?](pages/2023/Js%20Performance/2023-08-02.md) |  | [Recording](https://www.youtube.com/watch?v=QOA05FDJ2YA) |  | English |
+| 2023-7-27 | We Are Developers | [Write one time, test everywhere with Playwright](pages/2023/2023-07-27.md) | [Slides](https://slides.com/puppo92/write-one-time-test-everywhere-with-playwright/fullscreen) |  | [🇩🇪](## "Germany") | English |
 | 2023-7-26 | Youtube | [Old style Vs New style, which is the best performer?](pages/2023/Js%20Performance/2023-07-26.md) |  | [Recording](https://www.youtube.com/watch?v=TBH2vdx4Dd8) |  | English |
 | 2023-7-19 | Youtube | [Objects vs Maps when you should use one or the other](pages/2023/Js%20Performance/2023-07-19.md) |  | [Recording](https://www.youtube.com/watch?v=8WiUEnSvoao) |  | English |
 | 2023-7-12 | Youtube | [Avoid arrays. Sometimes, sets could be better](pages/2023/Js%20Performance/2023-07-12.md) |  | [Recording](https://www.youtube.com/watch?v=ak0fhG3zIyA) |  | English |
@@ -203,6 +209,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-07-26T19:26:42.943Z*
+*page updated on 2023-08-21T17:39:16.965Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
