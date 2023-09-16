@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-147-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-9-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-10-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-92-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-159-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-9-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-10-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-96-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 69
+ - [Year of 2023](#2023) - total events 81
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
@@ -14,13 +14,25 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-69-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-27-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-81-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-31-green?style=flat-square) 
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2023-9-15 | delpuppo.net | [JavaScript Async Generators Unleashed - Harnessing Asynchronous Power](pages/2023/Js%20Iterators/2023-09-15.md) |  |  |  | English |
+| 2023-9-14 | Youtube | [Excluding values from literal types in TypeScript](pages/2023/Typescript%20Tips/2023-09-14.md) |  | [Recording](https://youtube.com/shorts/wunsUur5JYI) |  | English |
+| 2023-9-13 | Youtube | [JavaScript Async Generators Unleashed - Harnessing Asynchronous Power](pages/2023/Js%20Iterators/2023-09-13.md) |  | [Recording](https://youtu.be/0uQvNZ8th08) |  | English |
+| 2023-9-8 | delpuppo.net | [Mastering JavaScript Async Iterators - Unlocking Asynchronous Magic](pages/2023/Js%20Iterators/2023-09-08.md) |  |  |  | English |
+| 2023-9-7 | Youtube | [How to Split Union Types with TypeScript Extract Utility](pages/2023/Typescript%20Tips/2023-09-07.md) |  | [Recording](https://youtube.com/shorts/ufP6Dh0UWxE) |  | English |
+| 2023-9-6 | Youtube | [Mastering JavaScript Async Iterators - Unlocking Asynchronous Magic](pages/2023/Js%20Iterators/2023-09-06.md) |  | [Recording](https://youtu.be/0_mzZ9QOebg) |  | English |
+| 2023-9-1 | delpuppo.net | [Unleashing the Power - Demystifying JavaScript Generators](pages/2023/Js%20Iterators/2023-09-01.md) |  |  |  | English |
+| 2023-8-31 | Youtube | [Use extends in TypeScript as Pattern Matching](pages/2023/Typescript%20Tips/2023-08-31.md) |  | [Recording](https://youtube.com/shorts/T4gkUOR2Tn0) |  | English |
+| 2023-8-30 | Youtube | [Unleashing the Power - Demystifying JavaScript Generators](pages/2023/Js%20Iterators/2023-08-30.md) |  | [Recording](https://youtu.be/mi2JlrXBRIs) |  | English |
+| 2023-8-25 | delpuppo.net | [Iterate Like a Pro - Mastering JavaScript Iterators for Effortless Code](pages/2023/Js%20Iterators/2023-08-25.md) |  |  |  | English |
+| 2023-8-24 | Youtube | [Typescript Readonly Utility, but.. How does it work?](pages/2023/Typescript%20Tips/2023-08-24.md) |  | [Recording](https://youtube.com/shorts/h0banJjq6kk) |  | English |
+| 2023-8-23 | Youtube | [Iterate Like a Pro - Mastering JavaScript Iterators for Effortless Code](pages/2023/Js%20Iterators/2023-08-23.md) |  | [Recording](https://youtu.be/BSctSkMGtiM) |  | English |
 | 2023-8-17 | Youtube | [TypeScript Partial Utility, how does it work?](pages/2023/Typescript%20Tips/2023-08-17.md) |  | [Recording](https://youtube.com/shorts/hiQ2Auleskc) |  | English |
 | 2023-8-11 | Youtube | [Wait for every promise or wait for everything? How to improve performance by knowing the promises](pages/2023/Js%20Performance/2023-08-11.md) |  | [Recording](https://www.youtube.com/watch?v=2ZQ5EKVjW30) |  | English |
 | 2023-8-10 | Youtube | [Remember to set the returntype in your typescript functions](pages/2023/Typescript%20Tips/2023-08-10.md) |  | [Recording](https://youtube.com/shorts/qFmAZQQSIQw) |  | English |
@@ -209,6 +221,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-08-21T17:39:16.965Z*
+*page updated on 2023-09-16T10:48:07.391Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
