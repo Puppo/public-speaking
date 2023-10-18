@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-170-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-9-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-10-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-101-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-172-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-9-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-10-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-101-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 92
+ - [Year of 2023](#2023) - total events 94
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
@@ -14,7 +14,7 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-92-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-36-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-94-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-36-green?style=flat-square) 
 
 
 
@@ -25,6 +25,8 @@
 | 2023-10-18 | delpuppo.net | [Unlocking the Power of Proxies - JavaScript's Secret Superheroes](pages/2023/Js%20you%20don't%20know/2023-10-18.md) |  |  |  | English |
 | 2023-10-11 | Youtube | [JavaScript WeakRef Explained - Harnessing Memory Management Magic](pages/2023/Js%20you%20don't%20know/2023-10-11-video.md) |  | [Recording](https://www.youtube.com/watch?v=-rN03KAHGC4) |  | English |
 | 2023-10-11 | delpuppo.net | [JavaScript WeakRef Explained - Harnessing Memory Management Magic](pages/2023/Js%20you%20don't%20know/2023-10-11.md) |  |  |  | English |
+| 2023-10-10 | Codemotion | [Dev VS Dev - "We will not ship shit"](pages/2023/2023-10-10.md) |  | [Recording](https://www.linkedin.com/events/devvsdev-wewillnotshipshit7117060681132036097/comments/) | [🇮🇹](## "Italy") | Italian |
+| 2023-10-9 | CAFFESVILUPPO | [EP 3.4.0 CRESCERE COME DEV \|| CAFFESVILUPPO con Luca Del Puppo](pages/2023/2023-10-09.md) |  | [Recording](https://youtu.be/mAXNHmcLtJ8?si=7v4M9i9fh324QU0l) | [🇮🇹](## "Italy") | Italian |
 | 2023-10-4 | Youtube | [Unlock the Power of JavaScript WeakSet - Mastering a Hidden Gem!](pages/2023/Js%20you%20don't%20know/2023-10-04-video.md) |  | [Recording](https://www.youtube.com/watch?v=m3BKqgeVAa4) |  | English |
 | 2023-10-4 | delpuppo.net | [Unlock the Power of JavaScript WeakSet - Mastering a Hidden Gem!](pages/2023/Js%20you%20don't%20know/2023-10-04.md) |  |  |  | English |
 | 2023-9-27 | Youtube | [Unlocking JavaScript's Secret Weapon - The Power of WeakMaps](pages/2023/Js%20you%20don't%20know/2023-09-27-video.md) |  | [Recording](https://www.youtube.com/watch?v=8Z4ZYDSxN3A) |  | English |
@@ -232,6 +234,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-10-18T17:44:01.945Z*
+*page updated on 2023-10-18T17:50:29.350Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
