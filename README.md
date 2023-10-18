@@ -26,7 +26,7 @@
 | 2023-10-11 | Youtube | [JavaScript WeakRef Explained - Harnessing Memory Management Magic](pages/2023/Js%20you%20don't%20know/2023-10-11-video.md) |  | [Recording](https://www.youtube.com/watch?v=-rN03KAHGC4) |  | English |
 | 2023-10-11 | delpuppo.net | [JavaScript WeakRef Explained - Harnessing Memory Management Magic](pages/2023/Js%20you%20don't%20know/2023-10-11.md) |  |  |  | English |
 | 2023-10-10 | Codemotion | [Dev VS Dev - "We will not ship shit"](pages/2023/2023-10-10.md) |  | [Recording](https://www.linkedin.com/events/devvsdev-wewillnotshipshit7117060681132036097/comments/) | [🇮🇹](## "Italy") | Italian |
-| 2023-10-9 | CAFFESVILUPPO | [EP 3.4.0 CRESCERE COME DEV \|| CAFFESVILUPPO con Luca Del Puppo](pages/2023/2023-10-09.md) |  | [Recording](https://youtu.be/mAXNHmcLtJ8?si=7v4M9i9fh324QU0l) | [🇮🇹](## "Italy") | Italian |
+| 2023-10-9 | CAFFESVILUPPO | [EP 3.4.0 CRESCERE COME DEV - CAFFESVILUPPO con Luca Del Puppo](pages/2023/2023-10-09.md) |  | [Recording](https://youtu.be/mAXNHmcLtJ8?si=7v4M9i9fh324QU0l) | [🇮🇹](## "Italy") | Italian |
 | 2023-10-4 | Youtube | [Unlock the Power of JavaScript WeakSet - Mastering a Hidden Gem!](pages/2023/Js%20you%20don't%20know/2023-10-04-video.md) |  | [Recording](https://www.youtube.com/watch?v=m3BKqgeVAa4) |  | English |
 | 2023-10-4 | delpuppo.net | [Unlock the Power of JavaScript WeakSet - Mastering a Hidden Gem!](pages/2023/Js%20you%20don't%20know/2023-10-04.md) |  |  |  | English |
 | 2023-9-27 | Youtube | [Unlocking JavaScript's Secret Weapon - The Power of WeakMaps](pages/2023/Js%20you%20don't%20know/2023-09-27-video.md) |  | [Recording](https://www.youtube.com/watch?v=8Z4ZYDSxN3A) |  | English |
@@ -234,6 +234,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-10-18T17:50:29.350Z*
+*page updated on 2023-10-18T17:52:44.798Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
