@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-172-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-9-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-10-red?style=flat-square" alt="Total Conferences">  <img src="https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-101-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-176-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-10-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-10-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-102-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 94
+ - [Year of 2023](#2023) - total events 98
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
@@ -14,13 +14,17 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-94-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-36-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-98-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-37-green?style=flat-square) 
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2023-10-27 | Gitbar podcast | [Typescript con Luca Del Puppo (Nearform)](pages/2023/2023-10-27.md) |  | [Recording](https://www.youtube.com/watch?v=KDlhLFF780E) | [🇮🇹](## "Italy") | Italian |
+| 2023-10-26 | Schrödinger Hat | [Dive into TypeScript](pages/2023/2023-10-26.md) | [Slides](https://slides.com/puppo92/dive-into-typescript/fullscreen) | [Recording](https://www.youtube.com/watch?v=KCRAM3AGWsk) | [🇮🇹](## "Italy") | Italian |
+| 2023-10-24 | Youtube | [JavaScript FinalizationRegistry Unraveled - Memory Management Magic Explained!](pages/2023/Js%20you%20don't%20know/2023-10-24-video.md) |  | [Recording](https://www.youtube.com/watch?v=3sgIFrjA61U) |  | English |
+| 2023-10-24 | delpuppo.net | [JavaScript FinalizationRegistry Unraveled - Memory Management Magic Explained!](pages/2023/Js%20you%20don't%20know/2023-10-24.md) |  |  |  | English |
 | 2023-10-18 | Youtube | [Unlocking the Power of Proxies - JavaScript's Secret Superheroes](pages/2023/Js%20you%20don't%20know/2023-10-18-video.md) |  | [Recording](https://www.youtube.com/watch?v=e7_lxSrP_Ok) |  | English |
 | 2023-10-18 | delpuppo.net | [Unlocking the Power of Proxies - JavaScript's Secret Superheroes](pages/2023/Js%20you%20don't%20know/2023-10-18.md) |  |  |  | English |
 | 2023-10-11 | Youtube | [JavaScript WeakRef Explained - Harnessing Memory Management Magic](pages/2023/Js%20you%20don't%20know/2023-10-11-video.md) |  | [Recording](https://www.youtube.com/watch?v=-rN03KAHGC4) |  | English |
@@ -234,6 +238,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-10-18T17:52:44.798Z*
+*page updated on 2023-10-30T20:33:53.576Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
