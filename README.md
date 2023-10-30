@@ -21,7 +21,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2023-10-27 | Gitbar podcast | [Typescript con Luca Del Puppo (Nearform)](pages/2023/2023-10-27.md) |  | [Recording](https://www.youtube.com/watch?v=KDlhLFF780E) | [🇮🇹](## "Italy") | Italian |
+| 2023-10-27 | Gitbar podcast | [Typescript con Luca Del Puppo (Nearform)](pages/2023/2023-10-27.md) |  | [Recording](https://www.youtube.com/watch?v=KDlhLFF780E) |  | Italian |
 | 2023-10-26 | Schrödinger Hat | [Dive into TypeScript](pages/2023/2023-10-26.md) | [Slides](https://slides.com/puppo92/dive-into-typescript/fullscreen) | [Recording](https://www.youtube.com/watch?v=KCRAM3AGWsk) | [🇮🇹](## "Italy") | English |
 | 2023-10-24 | Youtube | [JavaScript FinalizationRegistry Unraveled - Memory Management Magic Explained!](pages/2023/Js%20you%20don't%20know/2023-10-24-video.md) |  | [Recording](https://www.youtube.com/watch?v=3sgIFrjA61U) |  | English |
 | 2023-10-24 | delpuppo.net | [JavaScript FinalizationRegistry Unraveled - Memory Management Magic Explained!](pages/2023/Js%20you%20don't%20know/2023-10-24.md) |  |  |  | English |
@@ -238,6 +238,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-10-30T20:40:41.816Z*
+*page updated on 2023-10-30T20:41:58.360Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
