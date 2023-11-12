@@ -21,7 +21,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2023-11-11 | DevFest Trento | [Typescript con Luca Del Puppo (Nearform)](pages/2023/2023-11-11.md) | [Slides](https://slides.com/puppo92/javascripts-hidden-gems-unveiling-the-magic-of-iterators-and-generators/fullscreen) |  | [🇮🇹](## "Italy") | Italian |
+| 2023-11-11 | DevFest Trento | [JavaScript's hidden gems - unveiling the magic of Iteraros and Generators](pages/2023/2023-11-11.md) | [Slides](https://slides.com/puppo92/javascripts-hidden-gems-unveiling-the-magic-of-iterators-and-generators/fullscreen) |  | [🇮🇹](## "Italy") | Italian |
 | 2023-11-9 | Youtube | [The Reflect API - The Swiss Army knife that every JavaScript developer needs](pages/2023/Js%20you%20don't%20know/2023-11-09-video.md) |  | [Recording](https://www.youtube.com/watch?v%253DgaCvSu3ncbw) |  | English |
 | 2023-11-9 | delpuppo.net | [The Reflect API - The swiss army knife every JavaScript developer needs](pages/2023/Js%20you%20don't%20know/2023-11-09.md) |  |  |  | English |
 | 2023-11-2 | Youtube | [Craking the JavaScript code - Unevil the magic of Object Property Descriptors](pages/2023/Js%20you%20don't%20know/2023-11-02-video.md) |  | [Recording](https://www.youtube.com/watch?v%253DAHLdUs8LtIA) |  | English |
@@ -243,6 +243,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-11-12T20:23:04.407Z*
+*page updated on 2023-11-12T20:28:24.780Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
