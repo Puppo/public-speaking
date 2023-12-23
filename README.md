@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-181-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-10-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-11-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-104-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-184-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-10-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-13-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-1-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-104-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 103
+ - [Year of 2023](#2023) - total events 106
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
@@ -14,14 +14,17 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-103-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-39-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-106-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-39-green?style=flat-square) 
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2023-11-11 | DevFest Trento | [JavaScript's hidden gems - unveiling the magic of Iteraros and Generators](pages/2023/2023-11-11.md) | [Slides](https://slides.com/puppo92/javascripts-hidden-gems-unveiling-the-magic-of-iterators-and-generators/fullscreen) |  | [🇮🇹](## "Italy") | Italian |
+| 2023-12-18 | Codemotion Advent of Code | [Advent of Code - The Third Episode](pages/2023/2023-12-18.md) |  | [Recording](https://www.linkedin.com/events/7142422854842720258/comments/) | [🇮🇹](## "Italy") | Italian |
+| 2023-12-2 | DevFest Bari | [Write once, test everywhere with Playwright](pages/2023/2023-12-02.md) | [Slides](https://slides.com/puppo92/write-one-time-test-everywhere-with-playwright/fullscreen) |  | [🇮🇹](## "Italy") | Italian |
+| 2023-11-19 | DevFest Pescara | [Exploring the Enigmatic - Navigating JavaScript's Uncharted Realms](pages/2023/2023-11-19.md) | [Slides](https://slides.com/puppo92/exploring-the-enigmatic-navigating-javascripts-uncharted-realms/fullscreen) |  | [🇮🇹](## "Italy") | Italian |
+| 2023-11-11 | DevFest Trento | [JavaScript's hidden gems - unveiling the magic of Iterators and Generators](pages/2023/2023-11-11.md) | [Slides](https://slides.com/puppo92/javascripts-hidden-gems-unveiling-the-magic-of-iterators-and-generators/fullscreen) |  | [🇮🇹](## "Italy") | Italian |
 | 2023-11-9 | Youtube | [The Reflect API - The Swiss Army knife that every JavaScript developer needs](pages/2023/Js%20you%20don't%20know/2023-11-09-video.md) |  | [Recording](https://www.youtube.com/watch?v%253DgaCvSu3ncbw) |  | English |
 | 2023-11-9 | delpuppo.net | [The Reflect API - The swiss army knife every JavaScript developer needs](pages/2023/Js%20you%20don't%20know/2023-11-09.md) |  |  |  | English |
 | 2023-11-2 | Youtube | [Craking the JavaScript code - Unevil the magic of Object Property Descriptors](pages/2023/Js%20you%20don't%20know/2023-11-02-video.md) |  | [Recording](https://www.youtube.com/watch?v%253DAHLdUs8LtIA) |  | English |
@@ -243,6 +246,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-11-12T20:28:24.780Z*
+*page updated on 2023-12-23T14:19:31.187Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
