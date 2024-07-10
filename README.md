@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-184-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-10-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-13-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-2-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-104-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-197-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-21-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-3-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-104-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,10 +6,36 @@
 # Table of Contents
 
 
+ - [Year of 2024](#2024) - total events 13
  - [Year of 2023](#2023) - total events 106
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
+
+# 2024
+
+
+![Total Events](https://img.shields.io/badge/total-13-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2024-6-28 | Coderful | [TypeScript - strategie avanzate per trasformare JS da tipaccio a tipizzato!](pages/2024/2024-06-28.md) | [Slides](https://docs.google.com/presentation/d/1XYozT4qZbFi7fmvef8JsyP61y-O7N1gxAqtE2ShzxJo/edit?usp=sharing) |  | [🇮🇹](## "Italy") | Italian |
+| 2024-6-13 | JSNation | [Dive Into Advanced TypeScript](pages/2024/2024-06-13.md) | [Slides](https://slides.com/puppo92/dive-into-advanced-typescript/edit) | [Recording](https://portal.gitnation.org/contents/dive-into-advanced-typescript) | [🇳🇱](## "Netherlands") | English |
+| 2024-5-28 | Continuous Delivery | [Not My Type - con Luca Del Puppo](pages/2024/2024-05-28.md) |  | [Recording](https://www.youtube.com/watch?v=-HeDKpzfiL8&t=1469s) | [🇮🇹](## "Italy") | Italian |
+| 2024-5-24 | Angular Love | [Angular 18 🔥 \| Interview with Google Developer Expert Luca Del Puppo](pages/2024/2024-05-24.md) |  | [Recording](https://www.youtube.com/watch?v=zwotukZCd9g) |  | English |
+| 2024-5-21 | Angular Spring Camp | [Durable and modular Frontend application with Nx](pages/2024/2024-05-21.md) | [Slides](https://slides.com/puppo92/durable-and-modular-frontend-application-with-nx/scroll?chrome=hidden) | [Recording](https://www.youtube.com/watch?v=zi2dIIbuaso&t=4060s) | [🇵🇱](## "Poland") | English |
+| 2024-5-18 | Xe One Day 2024 | [Scale your Frontend application with Module Federation](pages/2024/2024-05-18.md) | [Slides](https://slides.com/puppo92/scale-your-frontend-application-with-module-federation/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | Italian |
+| 2024-4-11 | JsDay 2024 | [Exploring the Enigmatic - Navigating JavaScript's Uncharted Realms](pages/2024/2024-04-11.md) | [Slides](https://slides.com/puppo92/exploring-the-enigmatic-navigating-javascripts-uncharted-realms/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | English |
+| 2024-4-5 | CssDay 2024 | [CSS Layout ma come siete cambiati?](pages/2024/2024-04-05.md) | [Slides](https://slides.com/puppo92/css-layout-ma-come-siete-cambiati/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | Italian |
+| 2024-4-4 | Node Congress 2024 | [Breaking REST Chains - A Fastify & Mercurius Pathway to GraphQL Glory](pages/2024/2024-04-04.md) | [Slides](https://slides.com/puppo92/breaking-rest-chains-a-fastify-mercurius-pathway-to-graphql-glory/scroll?chrome=hidden) | [Recording](https://portal.gitnation.org/contents/breaking-rest-chains-a-fastify-and-mercurius-pathway-to-graphql-glory) |  | English |
+| 2024-2-23 | Jakala | [GitHub Copilot for lazy developers](pages/2024/2024-02-23.md) |  |  | [🇮🇹](## "Italy") | Italian |
+| 2024-2-22 | Commit University | [Breaking REST Chains - A Fastify & Mercurius Pathway to GraphQL Glory](pages/2024/2024-02-22.md) | [Slides](https://slides.com/puppo92/breaking-rest-chains-a-fastify-mercurius-pathway-to-graphql-glory/scroll?chrome=hidden) | [Recording](https://www.youtube.com/watch?v=nlYudhteZlE) | [🇮🇹](## "Italy") | Italian |
+| 2024-2-6 | Global Summit for Node.js '24 | [Breaking REST Chains - A Fastify & Mercurius Pathway to GraphQL Glory](pages/2024/2024-02-06.md) | [Slides](https://slides.com/puppo92/breaking-rest-chains-a-fastify-mercurius-pathway-to-graphql-glory/scroll?chrome=hidden) |  |  | English |
+| 2024-1-15 | Codemotion Advent of Code | [Advent of Code - The Last Episode](pages/2024/2024-01-15.md) |  | [Recording](https://www.linkedin.com/company/codemotion/posts/?feedView=videos) | [🇮🇹](## "Italy") | Italian |
+
 
 # 2023
 
@@ -246,6 +272,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-12-30T20:38:35.506Z*
+*page updated on 2024-07-10T11:07:14.685Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
