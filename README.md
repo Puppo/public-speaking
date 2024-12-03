@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-198-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-22-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-3-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-104-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-210-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-27-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-3-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-105-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2024](#2024) - total events 14
+ - [Year of 2024](#2024) - total events 26
  - [Year of 2023](#2023) - total events 106
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
@@ -15,15 +15,21 @@
 # 2024
 
 
-![Total Events](https://img.shields.io/badge/total-14-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-9-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-26-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-14-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)  ![Total Podcasts](https://img.shields.io/badge/articles-1-green?style=flat-square) 
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2024-11-30 | DevFest Basilicata 2024 | [Scale your project with NX](pages/2024/2024-11-30.md) | [Slides](https://slides.com/puppo92/scale-your-project-with-nx/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | Italian |
+| 2024-11-16 | DevFest Venezia 2024 | [Dive into advanced TypeScript](pages/2024/2024-11-16.md) | [Slides](https://slides.com/puppo92/dive-into-advanced-typescript/scroll?chrome=hidden) | [Recording](https://www.youtube.com/watch?v=PZPZ9n2q1ho) | [🇮🇹](## "Italy") | Italian |
+| 2024-10-26 | DevFest Trento 2024 | [Scale your Frontend application with Module Federation](pages/2024/2024-10-26.md) | [Slides](https://slides.com/puppo92/scale-your-frontend-application-with-module-federation/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | Italian |
+| 2024-10-23 | Codemotion 2024 | [Why you should know JavaScript before rewriting your application in Rust?](pages/2024/2024-10-23.md) | [Slides](https://slides.com/puppo92/why-you-should-know-javascript-before-rewriting-your-application-in-rust/fullscreen) | [Recording](https://www.youtube.com/watch?v=jfL0O0uJEZ8) | [🇮🇹](## "Italy") | English |
+| 2024-10-12 | DevFest Modena 2024 | [Scale your Frontend application with Module Federation](pages/2024/2024-10-12.md) | [Slides](https://slides.com/puppo92/scale-your-frontend-application-with-module-federation/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | Italian |
 | 2024-9-28 | Come to Code | [Scale your Frontend application with Module Federation](pages/2024/2024-09-28.md) | [Slides](https://slides.com/puppo92/scale-your-frontend-application-with-module-federation/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | Italian |
 | 2024-6-28 | Coderful | [TypeScript - strategie avanzate per trasformare JS da tipaccio a tipizzato!](pages/2024/2024-06-28.md) | [Slides](https://docs.google.com/presentation/d/1XYozT4qZbFi7fmvef8JsyP61y-O7N1gxAqtE2ShzxJo/edit?usp=sharing) |  | [🇮🇹](## "Italy") | Italian |
+| 2024-6-21 | gitkraken.com | [Focus on your Projects Without Leaving VS Code](pages/2024/2024-06-21.md) |  |  |  | English |
 | 2024-6-13 | JSNation | [Dive Into Advanced TypeScript](pages/2024/2024-06-13.md) | [Slides](https://slides.com/puppo92/dive-into-advanced-typescript/edit) | [Recording](https://portal.gitnation.org/contents/dive-into-advanced-typescript) | [🇳🇱](## "Netherlands") | English |
 | 2024-5-28 | Continuous Delivery | [Not My Type - con Luca Del Puppo](pages/2024/2024-05-28.md) |  | [Recording](https://www.youtube.com/watch?v=-HeDKpzfiL8&t=1469s) | [🇮🇹](## "Italy") | Italian |
 | 2024-5-24 | Angular Love | [Angular 18 🔥 \| Interview with Google Developer Expert Luca Del Puppo](pages/2024/2024-05-24.md) |  | [Recording](https://www.youtube.com/watch?v=zwotukZCd9g) |  | English |
@@ -32,6 +38,12 @@
 | 2024-4-11 | JsDay 2024 | [Exploring the Enigmatic - Navigating JavaScript's Uncharted Realms](pages/2024/2024-04-11.md) | [Slides](https://slides.com/puppo92/exploring-the-enigmatic-navigating-javascripts-uncharted-realms/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | English |
 | 2024-4-5 | CssDay 2024 | [CSS Layout ma come siete cambiati?](pages/2024/2024-04-05.md) | [Slides](https://slides.com/puppo92/css-layout-ma-come-siete-cambiati/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | Italian |
 | 2024-4-4 | Node Congress 2024 | [Breaking REST Chains - A Fastify & Mercurius Pathway to GraphQL Glory](pages/2024/2024-04-04.md) | [Slides](https://slides.com/puppo92/breaking-rest-chains-a-fastify-mercurius-pathway-to-graphql-glory/scroll?chrome=hidden) | [Recording](https://portal.gitnation.org/contents/breaking-rest-chains-a-fastify-and-mercurius-pathway-to-graphql-glory) |  | English |
+| 2024-4-3 | Youtube | [Fastify - Error Handling](pages/2024/Fastify/2024-04-03.md) |  | [Recording](https://www.youtube.com/watch?v=GQ8RyFBCods) |  | English |
+| 2024-3-29 | Youtube | [Fastify - Swagger](pages/2024/Fastify/2024-03-29.md) |  | [Recording](https://www.youtube.com/watch?v=gBgO8XSW7GM) |  | English |
+| 2024-3-20 | Youtube | [Fastify Clean Architecture](pages/2024/Fastify/2024-03-20.md) |  | [Recording](https://www.youtube.com/watch?v=5zYzjzoTok4) |  | English |
+| 2024-3-14 | Youtube | [Fastify - Serialization & Validation](pages/2024/Fastify/2024-03-14.md) |  | [Recording](https://www.youtube.com/watch?v=dUGT_IuS-as) |  | English |
+| 2024-3-5 | Youtube | [Fastify - Serialization & Validation](pages/2024/Fastify/2024-03-05.md) |  | [Recording](https://www.youtube.com/watch?v=dUGT_IuS-as) |  | English |
+| 2024-2-27 | Youtube | [Fastify - Build your first route](pages/2024/Fastify/2024-02-27.md) |  | [Recording](https://www.youtube.com/watch?v=xKoISrLTjUQ) |  | English |
 | 2024-2-23 | Jakala | [GitHub Copilot for lazy developers](pages/2024/2024-02-23.md) |  |  | [🇮🇹](## "Italy") | Italian |
 | 2024-2-22 | Commit University | [Breaking REST Chains - A Fastify & Mercurius Pathway to GraphQL Glory](pages/2024/2024-02-22.md) | [Slides](https://slides.com/puppo92/breaking-rest-chains-a-fastify-mercurius-pathway-to-graphql-glory/scroll?chrome=hidden) | [Recording](https://www.youtube.com/watch?v=nlYudhteZlE) | [🇮🇹](## "Italy") | Italian |
 | 2024-2-6 | Global Summit for Node.js '24 | [Breaking REST Chains - A Fastify & Mercurius Pathway to GraphQL Glory](pages/2024/2024-02-06.md) | [Slides](https://slides.com/puppo92/breaking-rest-chains-a-fastify-mercurius-pathway-to-graphql-glory/scroll?chrome=hidden) |  |  | English |
@@ -273,6 +285,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2024-09-29T13:53:37.860Z*
+*page updated on 2024-12-03T18:38:30.110Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
