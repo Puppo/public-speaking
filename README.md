@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-210-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-27-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-3-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-105-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-213-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-15-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-27-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-3-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-105-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,11 +6,27 @@
 # Table of Contents
 
 
+ - [Year of 2025](#2025) - total events 3
  - [Year of 2024](#2024) - total events 26
  - [Year of 2023](#2023) - total events 106
  - [Year of 2022](#2022) - total events 31
  - [Year of 2021](#2021) - total events 46
  - [Year of 2020](#2020) - total events 1
+
+# 2025
+
+
+![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square)     
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2025-2-20 | Firenze.dev | [TypeScript Gymnastics - why are they so powerful for you?](pages/2025/2025-02-20.md) | [Slides](https://slides.com/puppo92/typescript-gymnastics-why-are-they-so-powerful-for-you/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-2-10 | Codemotion Magazine | [Queueing Without a Queue - Enter fastq](pages/2025/2025-02-10.md) |  |  |  |  |
+| 2025-1-28 | GDG Torino 2025 | [Scale your Frontend application with Module Federation](pages/2025/2025-01-28.md) | [Slides](https://slides.com/puppo92/scale-your-frontend-application-with-module-federation/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | Italian |
+
 
 # 2024
 
@@ -285,6 +301,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2024-12-03T18:38:30.110Z*
+*page updated on 2025-02-27T20:52:14.137Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
