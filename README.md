@@ -31,7 +31,7 @@
 | 2025-10-16 | React Day Italy | [React Compiler, how can you help me?](pages/2025/2025-10-16.md) | [Slides](https://talks.delpuppo.net/react-compiler-how-can-you-help-me) |  | [🇮🇹](## "Italy") | English |
 | 2025-10-14 | Codemotion Milan | [ChromeDevTools—are you confident in your expertise?](pages/2025/2025-10-14.md) | [Slides](https://talks.delpuppo.net/chromedevtools-are-you-confident-in-your-expertise) |  | [🇮🇹](## "Italy") | English |
 | 2025-10-4 | GDG Modena | [Vibe Coding - Let’s follow the flow!](pages/2025/2025-10-04.md) | [Slides](https://talks.delpuppo.net/vibe-coding-let-s-follow-the-flow) |  | [🇮🇹](## "Italy") | Italian |
-| 2025-10-4 | GDG Venezia | [Vibe Coding - Let’s follow the flow!](pages/2025/2025-10-11.md) | [Slides](https://talks.delpuppo.net/vibe-coding-let-s-follow-the-flow) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-10-4 | GDG Venezia | [Vibe Coding - Let’s follow the flow!](pages/2025/2025-10-11.md) | [Slides](https://talks.delpuppo.net/vibe-coding-let-s-follow-the-flow) | [Recording](https://www.youtube.com/watch?v=C5R_7742V7I) | [🇮🇹](## "Italy") | Italian |
 | 2025-9-20 | GDG Campobasso | [ChromeDevTools—are you confident in your expertise?](pages/2025/2025-09-20.md) | [Slides](https://talks.delpuppo.net/chromedevtools-are-you-confident-in-your-expertise) |  | [🇮🇹](## "Italy") | Italian |
 | 2025-6-25 | blog.delpuppo.net | [Do you really need the Cloud to work with AI?](pages/2025/2025-06-25.md) |  |  |  | English |
 | 2025-6-13 | DevDojo | [Luca Del Puppo - Copilot e Vibe Coding](pages/2025/2025-06-13.md) |  | [Recording](https://www.youtube.com/watch?v=laF0KNO_2Cg) |  | Italian |
@@ -317,6 +317,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2025-12-28T05:52:31.864Z*
+*page updated on 2025-12-28T05:55:54.413Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
