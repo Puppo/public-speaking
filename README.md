@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-229-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-14-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-28-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-3-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-108-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-229-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-15-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-38-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-3-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-108-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -16,7 +16,7 @@
 # 2025
 
 
-![Total Events](https://img.shields.io/badge/total-19-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-3-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-19-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-3-green?style=flat-square) 
 
 
 
@@ -317,6 +317,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2025-12-28T05:55:54.413Z*
+*page updated on 2025-12-28T05:58:23.845Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
