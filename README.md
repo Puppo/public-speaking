@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-213-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-15-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-27-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-3-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-105-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-229-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-14-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-28-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-3-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-108-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-2-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
 <p align='center'>Reach me out on social networks! <p align='center'><a href='https://twitter.com/puppo92'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/puppo92?style=social'></a></p></p>
@@ -6,7 +6,7 @@
 # Table of Contents
 
 
- - [Year of 2025](#2025) - total events 3
+ - [Year of 2025](#2025) - total events 19
  - [Year of 2024](#2024) - total events 26
  - [Year of 2023](#2023) - total events 106
  - [Year of 2022](#2022) - total events 31
@@ -16,15 +16,31 @@
 # 2025
 
 
-![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square)     
+![Total Events](https://img.shields.io/badge/total-19-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-3-green?style=flat-square) 
 
 
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2025-12-23 | blog.delpuppo.net | [Take control of your job with GitLens Launchpad](pages/2025/2025-12-23.md) |  |  |  | English |
+| 2025-12-1 | React Advanced | [Chrome DevTools, for Super Fast SSR Applications!](pages/2025/2025-12-01.md) | [Slides](https://talks.delpuppo.net/chromedevtools-for-super-fast-ssr-applications) | [Recording](https://gitnation.com/contents/chrome-devtools-for-super-fast-ssr-applications) |  | English |
+| 2025-11-29 | GDG Bari | [Vibe Coding - Let’s follow the flow!](pages/2025/2025-11-29.md) | [Slides](https://talks.delpuppo.net/vibe-coding-let-s-follow-the-flow) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-10-28 | GDG Treviso | [Vibe Coding - Let’s follow the flow!](pages/2025/2025-10-28.md) | [Slides](https://talks.delpuppo.net/vibe-coding-let-s-follow-the-flow) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-10-25 | GDG Roma Città | [AI in the Browser: Am I Still Waiting for It?](pages/2025/2025-10-25.md) | [Slides](https://talks.delpuppo.net/ai-in-the-browser-am-i-still-waiting-for-it) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-10-16 | React Day Italy | [React Compiler, how can you help me?](pages/2025/2025-10-16.md) | [Slides](https://talks.delpuppo.net/react-compiler-how-can-you-help-me) |  | [🇮🇹](## "Italy") | English |
+| 2025-10-14 | Codemotion Milan | [ChromeDevTools—are you confident in your expertise?](pages/2025/2025-10-14.md) | [Slides](https://talks.delpuppo.net/chromedevtools-are-you-confident-in-your-expertise) |  | [🇮🇹](## "Italy") | English |
+| 2025-10-4 | GDG Modena | [Vibe Coding - Let’s follow the flow!](pages/2025/2025-10-04.md) | [Slides](https://talks.delpuppo.net/vibe-coding-let-s-follow-the-flow) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-10-4 | GDG Venezia | [Vibe Coding - Let’s follow the flow!](pages/2025/2025-10-11.md) | [Slides](https://talks.delpuppo.net/vibe-coding-let-s-follow-the-flow) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-9-20 | GDG Campobasso | [ChromeDevTools—are you confident in your expertise?](pages/2025/2025-09-20.md) | [Slides](https://talks.delpuppo.net/chromedevtools-are-you-confident-in-your-expertise) |  | [🇮🇹](## "Italy") | Italian |
+| 2025-6-25 | blog.delpuppo.net | [Do you really need the Cloud to work with AI?](pages/2025/2025-06-25.md) |  |  |  | English |
+| 2025-6-13 | DevDojo | [Luca Del Puppo - Copilot e Vibe Coding](pages/2025/2025-06-13.md) |  | [Recording](https://www.youtube.com/watch?v=laF0KNO_2Cg) |  | Italian |
+| 2025-4-17 | NodeCongress | [Bull-ish your queues with BullMQ](pages/2025/2025-04-17.md) | [Slides](https://slides.com/puppo92/bull-ish-your-queues-with-bullmq/fullscreen) | [Recording](https://gitnation.com/contents/bull-ish-your-queues-with-bullmq) |  | English |
+| 2025-4-9 | Node.js Global Summit 25 | [Bull-ish your queues with BullMQ](pages/2025/2025-04-09.md) | [Slides](https://slides.com/puppo92/bull-ish-your-queues-with-bullmq/fullscreen) |  |  | English |
+| 2025-4-7 | Firenze.dev | [TypeScript Gymnastics - why are they so powerful for you?](pages/2025/2025-04-07.md) | [Slides](https://slides.com/puppo92/typescript-gymnastics-why-are-they-so-powerful-for-you/scroll?chrome=hidden) | [Recording](https://www.youtube.com/watch?v=gFFeeNjoYDQ) | [🇮🇹](## "Italy") | English |
+| 2025-3-31 | devmy | [Zod e TypeScript: la guida definitiva alla validazione dei dati](pages/2025/2025-03-31.md) |  | [Recording](https://www.youtube.com/watch?v=-XqHfJlokIk) |  | Italian |
 | 2025-2-20 | Firenze.dev | [TypeScript Gymnastics - why are they so powerful for you?](pages/2025/2025-02-20.md) | [Slides](https://slides.com/puppo92/typescript-gymnastics-why-are-they-so-powerful-for-you/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | Italian |
-| 2025-2-10 | Codemotion Magazine | [Queueing Without a Queue - Enter fastq](pages/2025/2025-02-10.md) |  |  |  |  |
+| 2025-2-10 | Codemotion Magazine | [Queueing Without a Queue - Enter fastq](pages/2025/2025-02-10.md) |  |  |  | English |
 | 2025-1-28 | GDG Torino 2025 | [Scale your Frontend application with Module Federation](pages/2025/2025-01-28.md) | [Slides](https://slides.com/puppo92/scale-your-frontend-application-with-module-federation/scroll?chrome=hidden) |  | [🇮🇹](## "Italy") | Italian |
 
 
@@ -301,6 +317,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2025-02-27T20:52:14.137Z*
+*page updated on 2025-12-28T05:52:31.864Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
